@@ -4,9 +4,9 @@ class DB
 {
 
     private static $DB_HOST = "localhost";
-    private static $DB_USER = "p511269_rgsu";
-    private static $DB_PASS = "oZ1xD4xC6wvD0z";
-    private static $DB_NAME = "p511269_rgsu";
+    private static $DB_USER = "USER";
+    private static $DB_PASS = "PASS";
+    private static $DB_NAME = "DBNAME";
 
     private static $connection = null;
 

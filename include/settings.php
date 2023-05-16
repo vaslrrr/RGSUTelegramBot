@@ -3,18 +3,11 @@ if (!defined("MODULE")) {
     exit("HACKING ATTEMPT");
 }
 
-//Секретный ключ
-const SECRET_KEY = "fzb0CaPNXMHQK9gU";
+const SECRET_KEY = "RANDOM PHRASE";
 
-//Токен бота
-const BOT_TOKEN = "5272265591:AAHE9A-IqXnJEwegDQz8YUCz-sIOQDEDIHM";
-//const VK_TOKEN = "";
+const BOT_TOKEN = "TOKEN BOT";
 
-//Ссылка на скрипт вебхука
-const WRAPPER_LINK = "https://rgsu.exbcheb.tk/bot_control.php";
-
+const WRAPPER_LINK = "LINK TO MAIN DIR/bot_control.php";
 
 const LOGIN = 'login';
 const PASSWORD = 'pass';
-
-const SITE_URL = "http://none.none/";
